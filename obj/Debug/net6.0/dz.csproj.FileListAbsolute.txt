@@ -1,0 +1,15 @@
+/home/kirill/Рабочий стол/new/dz/bin/Debug/net6.0/dz
+/home/kirill/Рабочий стол/new/dz/bin/Debug/net6.0/dz.deps.json
+/home/kirill/Рабочий стол/new/dz/bin/Debug/net6.0/dz.runtimeconfig.json
+/home/kirill/Рабочий стол/new/dz/bin/Debug/net6.0/dz.dll
+/home/kirill/Рабочий стол/new/dz/bin/Debug/net6.0/dz.pdb
+/home/kirill/Рабочий стол/new/dz/obj/Debug/net6.0/dz.csproj.AssemblyReference.cache
+/home/kirill/Рабочий стол/new/dz/obj/Debug/net6.0/dz.GeneratedMSBuildEditorConfig.editorconfig
+/home/kirill/Рабочий стол/new/dz/obj/Debug/net6.0/dz.AssemblyInfoInputs.cache
+/home/kirill/Рабочий стол/new/dz/obj/Debug/net6.0/dz.AssemblyInfo.cs
+/home/kirill/Рабочий стол/new/dz/obj/Debug/net6.0/dz.csproj.CoreCompileInputs.cache
+/home/kirill/Рабочий стол/new/dz/obj/Debug/net6.0/dz.dll
+/home/kirill/Рабочий стол/new/dz/obj/Debug/net6.0/refint/dz.dll
+/home/kirill/Рабочий стол/new/dz/obj/Debug/net6.0/dz.pdb
+/home/kirill/Рабочий стол/new/dz/obj/Debug/net6.0/dz.genruntimeconfig.cache
+/home/kirill/Рабочий стол/new/dz/obj/Debug/net6.0/ref/dz.dll

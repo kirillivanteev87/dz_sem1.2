@@ -1,2 +1,12 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿int numberA = -9;
+int numberB = -3;
+if (numberA > numberB)
+{
+    Console.Write("max =");
+    Console.WriteLine (numberA);
+}
+else 
+{
+    Console.Write("max = ");
+    Console.WriteLine(numberB);
+}
